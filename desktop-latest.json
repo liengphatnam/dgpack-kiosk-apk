@@ -1,0 +1,15 @@
+{
+    "version":  "1.2.0",
+    "files":  {
+                  "win-x64":  {
+                                  "url":  "https://github.com/liengphatnam/dgpack-kiosk-apk/releases/download/desktop-v1.2.0/dgpack-kiosk-app-1.2.0-win-x64.zip",
+                                  "sha256":  "7f06b90d511c45a24f25d5a8d110c054be29b1900e2ee269f8cf8b6bddb5b21f",
+                                  "sizeBytes":  46434997
+                              },
+                  "linux-x64":  {
+                                    "url":  "https://github.com/liengphatnam/dgpack-kiosk-apk/releases/download/desktop-v1.2.0/dgpack-kiosk-app-1.2.0-linux-x64.tar.gz",
+                                    "sha256":  "7494308aa1e589e1036beb2ff3ce9d0b2a08f1cd4e53c078188057e22cd7936b",
+                                    "sizeBytes":  44396095
+                                }
+              }
+}
