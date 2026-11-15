@@ -1,15 +1,15 @@
 {
-    "version":  "1.4.0",
+    "version":  "1.4.1",
     "files":  {
                   "win-x64":  {
-                                  "url":  "https://github.com/liengphatnam/dgpack-kiosk-apk/releases/download/desktop-v1.4.0/dgpack-kiosk-app-1.4.0-win-x64.zip",
-                                  "sha256":  "4fc848ea3537826406b0eec0f3bc2ea64b63e3d9e534d7051c58224f7184ee22",
-                                  "sizeBytes":  46488485
+                                  "url":  "https://github.com/liengphatnam/dgpack-kiosk-apk/releases/download/desktop-v1.4.1/dgpack-kiosk-app-1.4.1-win-x64.zip",
+                                  "sha256":  "c1ae42b1cbc6c139e9d14dba5b2796bed147676994dca4f193ad3f00b27f3b69",
+                                  "sizeBytes":  46490463
                               },
                   "linux-x64":  {
-                                    "url":  "https://github.com/liengphatnam/dgpack-kiosk-apk/releases/download/desktop-v1.4.0/dgpack-kiosk-app-1.4.0-linux-x64.tar.gz",
-                                    "sha256":  "b29584ca11f3ca2bf66defb61c4b0906c5b67fe73fcc51c16232f5e2a4d3180b",
-                                    "sizeBytes":  44453074
+                                    "url":  "https://github.com/liengphatnam/dgpack-kiosk-apk/releases/download/desktop-v1.4.1/dgpack-kiosk-app-1.4.1-linux-x64.tar.gz",
+                                    "sha256":  "16293f8a52a70310dcd49a37d7d7040d4f3f07def3911398ebe619bf19fd55bf",
+                                    "sizeBytes":  44450376
                                 }
               }
 }
